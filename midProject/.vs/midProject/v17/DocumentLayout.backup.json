@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 4\\DbMidProject\\midProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignIn.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\SignIn.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\SignIn.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\SignIn.cs [Design]",
+              "RelativeToolTip": "UI\\userForm\\SignIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:01:28.092Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAywCMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:39:42.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\SignUp.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\SignUp.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\SignUp.cs",
+              "RelativeToolTip": "UI\\userForm\\SignUp.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:26:31.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\SignUp.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\SignUp.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\SignUp.cs [Design]",
+              "RelativeToolTip": "UI\\userForm\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:24:10.351Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:06:27.149Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
