@@ -63,6 +63,16 @@ namespace midProject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _17_171570_uet_lahore_logo_clipart_png_download_university_of {
+            get {
+                object obj = ResourceManager.GetObject("17-171570_uet-lahore-logo-clipart-png-download-university-of", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Pi7_Tool_MUHAMMAD_TAYYAB_MANZOOR {
             get {
                 object obj = ResourceManager.GetObject("Pi7_Tool_MUHAMMAD TAYYAB MANZOOR", resourceCulture);

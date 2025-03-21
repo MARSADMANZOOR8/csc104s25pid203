@@ -104,5 +104,22 @@ namespace midProject.dl
                 }
             }
         }
+
+        public static bool DeleteUserData(int user_id)
+        {
+            var connection = DataBaseHelper.GetConnection();
+            connection.Open();
+            string query = "Delete from users where user_id = @userID";
+            using (SqlCommand cmd = new SqlCommand(query, connection))
+            {
+                cmd.Parameters.AddWithValue("@userID", user_id);
+                int row = cmd.ExecuteNonQuery();
+                if (row > 0)
+                {
+                    return true;
+                }
+                return false;
+            }
+        }
     }
 }

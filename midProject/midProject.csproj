@@ -46,6 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="bl\CourseBL.cs" />
+    <Compile Include="bl\FacultyBL.cs" />
+    <Compile Include="bl\HeadBl.cs" />
+    <Compile Include="bl\ProjectsBL.cs" />
+    <Compile Include="bl\UsersBL.cs" />
+    <Compile Include="DataBaseHelper.cs" />
+    <Compile Include="dl\CourseDL.cs" />
+    <Compile Include="dl\FacultyDL.cs" />
+    <Compile Include="dl\HeadDL.cs" />
+    <Compile Include="dl\ProjectsDL.cs" />
+    <Compile Include="dl\UsersDL.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +65,114 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\userForm\Adm\AddFaculty.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\AddFaculty.Designer.cs">
+      <DependentUpon>AddFaculty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\AllocateCourse.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\AllocateCourse.Designer.cs">
+      <DependentUpon>AllocateCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\CreateCourse.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\CreateCourse.Designer.cs">
+      <DependentUpon>CreateCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\DeleteFaculty.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\DeleteFaculty.Designer.cs">
+      <DependentUpon>DeleteFaculty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\FacultyRequests.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\FacultyRequests.Designer.cs">
+      <DependentUpon>FacultyRequests.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\ManageCourses.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\ManageCourses.Designer.cs">
+      <DependentUpon>ManageCourses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\ManageFaculty.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\ManageFaculty.Designer.cs">
+      <DependentUpon>ManageFaculty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\UpdateFaculty.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\UpdateFaculty.Designer.cs">
+      <DependentUpon>UpdateFaculty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\ViewFacultyCourses.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\Adm\ViewFacultyCourses.Designer.cs">
+      <DependentUpon>ViewFacultyCourses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\DeptHead\AddResources.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\DeptHead\AddResources.Designer.cs">
+      <DependentUpon>AddResources.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\DeptHead\AssignProjects.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\DeptHead\AssignProjects.Designer.cs">
+      <DependentUpon>AssignProjects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\DeptHead\CreateProjects.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\DeptHead\CreateProjects.Designer.cs">
+      <DependentUpon>CreateProjects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\DeptHead\HandleReq.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\DeptHead\HandleReq.Designer.cs">
+      <DependentUpon>HandleReq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\DeptHead\ManageProject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\DeptHead\ManageProject.Designer.cs">
+      <DependentUpon>ManageProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\DeptHead\ViewProjects.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\DeptHead\ViewProjects.Designer.cs">
+      <DependentUpon>ViewProjects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\Faculty\ResourceReq.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\Faculty\ResourceReq.Designer.cs">
+      <DependentUpon>ResourceReq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\Faculty\TrackReq.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\Faculty\TrackReq.Designer.cs">
+      <DependentUpon>TrackReq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\userForm\Faculty\ViewCources.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\userForm\Faculty\ViewCources.Designer.cs">
+      <DependentUpon>ViewCources.cs</DependentUpon>
+    </Compile>
     <Compile Include="UI\userForm\SignIn.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -72,6 +191,18 @@
     <Compile Include="UI\windowForm\Admin.Designer.cs">
       <DependentUpon>Admin.cs</DependentUpon>
     </Compile>
+    <Compile Include="UI\windowForm\DeptHead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\windowForm\DeptHead.Designer.cs">
+      <DependentUpon>DeptHead.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\windowForm\Faculty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\windowForm\Faculty.Designer.cs">
+      <DependentUpon>Faculty.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -85,6 +216,60 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="UI\userForm\Adm\AddFaculty.resx">
+      <DependentUpon>AddFaculty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\Adm\AllocateCourse.resx">
+      <DependentUpon>AllocateCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\Adm\CreateCourse.resx">
+      <DependentUpon>CreateCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\Adm\DeleteFaculty.resx">
+      <DependentUpon>DeleteFaculty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\Adm\FacultyRequests.resx">
+      <DependentUpon>FacultyRequests.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\Adm\ManageCourses.resx">
+      <DependentUpon>ManageCourses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\Adm\ManageFaculty.resx">
+      <DependentUpon>ManageFaculty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\Adm\UpdateFaculty.resx">
+      <DependentUpon>UpdateFaculty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\Adm\ViewFacultyCourses.resx">
+      <DependentUpon>ViewFacultyCourses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\DeptHead\AddResources.resx">
+      <DependentUpon>AddResources.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\DeptHead\AssignProjects.resx">
+      <DependentUpon>AssignProjects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\DeptHead\CreateProjects.resx">
+      <DependentUpon>CreateProjects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\DeptHead\HandleReq.resx">
+      <DependentUpon>HandleReq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\DeptHead\ManageProject.resx">
+      <DependentUpon>ManageProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\DeptHead\ViewProjects.resx">
+      <DependentUpon>ViewProjects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\Faculty\ResourceReq.resx">
+      <DependentUpon>ResourceReq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\Faculty\TrackReq.resx">
+      <DependentUpon>TrackReq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\userForm\Faculty\ViewCources.resx">
+      <DependentUpon>ViewCources.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UI\userForm\SignIn.resx">
       <DependentUpon>SignIn.cs</DependentUpon>
     </EmbeddedResource>
@@ -93,6 +278,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UI\windowForm\Admin.resx">
       <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\windowForm\DeptHead.resx">
+      <DependentUpon>DeptHead.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\windowForm\Faculty.resx">
+      <DependentUpon>Faculty.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -111,8 +302,7 @@
     <None Include="Resources\Pi7_Tool_MUHAMMAD TAYYAB MANZOOR.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="bl\" />
-    <Folder Include="dl\" />
+    <None Include="Resources\17-171570_uet-lahore-logo-clipart-png-download-university-of.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

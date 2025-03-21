@@ -3,24 +3,88 @@
   "WorkspaceRootPath": "D:\\Semester 4\\DbMidProject\\midProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\windowform\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\windowform\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\windowform\\depthead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\windowform\\depthead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\windowform\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\windowform\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\faculty\\viewcources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\faculty\\viewcources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\faculty\\trackreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\faculty\\trackreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\faculty\\resourcereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\faculty\\resourcereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\windowform\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\windowform\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\depthead\\handlereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\depthead\\handlereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\depthead\\viewprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\depthead\\viewprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\depthead\\viewprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\depthead\\viewprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\depthead\\createprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\depthead\\createprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\depthead\\addresources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\depthead\\addresources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\depthead\\assignprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\depthead\\assignprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\depthead\\assignprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\depthead\\assignprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\depthead\\addresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\depthead\\addresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\depthead\\manageproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\depthead\\manageproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\depthead\\manageproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\depthead\\manageproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\userform\\depthead\\addresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\userform\\depthead\\addresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|d:\\semester 4\\dbmidproject\\midproject\\ui\\windowform\\depthead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0763DF-072E-4D79-A29C-59DF3F54A868}|midProject.csproj|solutionrelative:ui\\windowform\\depthead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +94,266 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\windowForm\\Faculty.cs",
+              "RelativeDocumentMoniker": "UI\\windowForm\\Faculty.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\windowForm\\Faculty.cs",
+              "RelativeToolTip": "UI\\windowForm\\Faculty.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAywBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:11:26.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Faculty.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\windowForm\\Faculty.cs",
+              "RelativeDocumentMoniker": "UI\\windowForm\\Faculty.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\windowForm\\Faculty.cs [Design]",
+              "RelativeToolTip": "UI\\windowForm\\Faculty.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:11:19.707Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:10:44.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewProjects.cs",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\ViewProjects.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\DeptHead\\ViewProjects.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\ViewProjects.cs",
+              "RelativeToolTip": "UI\\userForm\\DeptHead\\ViewProjects.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAArwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:05:47.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewProjects.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\ViewProjects.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\DeptHead\\ViewProjects.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\ViewProjects.cs [Design]",
+              "RelativeToolTip": "UI\\userForm\\DeptHead\\ViewProjects.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:02:47.435Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssignProjects.cs",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\AssignProjects.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\DeptHead\\AssignProjects.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\AssignProjects.cs",
+              "RelativeToolTip": "UI\\userForm\\DeptHead\\AssignProjects.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAArwHUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:35:46.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManageProject.cs",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\ManageProject.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\DeptHead\\ManageProject.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\ManageProject.cs",
+              "RelativeToolTip": "UI\\userForm\\DeptHead\\ManageProject.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAywBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:33:27.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "SignIn.cs [Design]",
               "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\SignIn.cs",
               "RelativeDocumentMoniker": "UI\\userForm\\SignIn.cs",
               "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\SignIn.cs [Design]",
               "RelativeToolTip": "UI\\userForm\\SignIn.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T17:01:28.092Z",
+              "WhenOpened": "2025-03-21T17:31:06.397Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAIAywCMAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ViewCources.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\Faculty\\ViewCources.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\Faculty\\ViewCources.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\Faculty\\ViewCources.cs [Design]",
+              "RelativeToolTip": "UI\\userForm\\Faculty\\ViewCources.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T16:39:42.822Z",
+              "WhenOpened": "2025-03-21T17:31:04.202Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrackReq.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\Faculty\\TrackReq.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\Faculty\\TrackReq.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\Faculty\\TrackReq.cs [Design]",
+              "RelativeToolTip": "UI\\userForm\\Faculty\\TrackReq.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:31:02.823Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResourceReq.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\Faculty\\ResourceReq.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\Faculty\\ResourceReq.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\Faculty\\ResourceReq.cs [Design]",
+              "RelativeToolTip": "UI\\userForm\\Faculty\\ResourceReq.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:31:01.114Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\windowForm\\Admin.cs",
+              "RelativeDocumentMoniker": "UI\\windowForm\\Admin.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\windowForm\\Admin.cs [Design]",
+              "RelativeToolTip": "UI\\windowForm\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:30:53.335Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddResources.Designer.cs",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\AddResources.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\DeptHead\\AddResources.Designer.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\AddResources.Designer.cs",
+              "RelativeToolTip": "UI\\userForm\\DeptHead\\AddResources.Designer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAA1wF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:27:46.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SignUp.cs",
-              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\SignUp.cs",
-              "RelativeDocumentMoniker": "UI\\userForm\\SignUp.cs",
-              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\SignUp.cs",
-              "RelativeToolTip": "UI\\userForm\\SignUp.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAIAxwBUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "AddResources.cs",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\AddResources.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\DeptHead\\AddResources.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\AddResources.cs",
+              "RelativeToolTip": "UI\\userForm\\DeptHead\\AddResources.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAIAywDsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T16:26:31.822Z",
+              "WhenOpened": "2025-03-21T17:27:32.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateProjects.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\CreateProjects.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\DeptHead\\CreateProjects.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\CreateProjects.cs [Design]",
+              "RelativeToolTip": "UI\\userForm\\DeptHead\\CreateProjects.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:14:49.976Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeptHead.cs",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\windowForm\\DeptHead.cs",
+              "RelativeDocumentMoniker": "UI\\windowForm\\DeptHead.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\windowForm\\DeptHead.cs",
+              "RelativeToolTip": "UI\\windowForm\\DeptHead.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIA3wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:11:57.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SignUp.cs [Design]",
-              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\SignUp.cs",
-              "RelativeDocumentMoniker": "UI\\userForm\\SignUp.cs",
-              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\SignUp.cs [Design]",
-              "RelativeToolTip": "UI\\userForm\\SignUp.cs [Design]",
+              "Title": "DeptHead.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\windowForm\\DeptHead.cs",
+              "RelativeDocumentMoniker": "UI\\windowForm\\DeptHead.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\windowForm\\DeptHead.cs [Design]",
+              "RelativeToolTip": "UI\\windowForm\\DeptHead.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T16:24:10.351Z",
+              "WhenOpened": "2025-03-21T17:11:35.052Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "DocumentIndex": 16,
+              "Title": "ManageProject.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\ManageProject.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\DeptHead\\ManageProject.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\ManageProject.cs [Design]",
+              "RelativeToolTip": "UI\\userForm\\DeptHead\\ManageProject.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T16:06:27.149Z",
+              "WhenOpened": "2025-03-21T17:07:26.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HandleReq.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\HandleReq.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\DeptHead\\HandleReq.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\HandleReq.cs [Design]",
+              "RelativeToolTip": "UI\\userForm\\DeptHead\\HandleReq.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:07:24.297Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssignProjects.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\AssignProjects.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\DeptHead\\AssignProjects.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\AssignProjects.cs [Design]",
+              "RelativeToolTip": "UI\\userForm\\DeptHead\\AssignProjects.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:07:22.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddResources.cs [Design]",
+              "DocumentMoniker": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\AddResources.cs",
+              "RelativeDocumentMoniker": "UI\\userForm\\DeptHead\\AddResources.cs",
+              "ToolTip": "D:\\Semester 4\\DbMidProject\\midProject\\UI\\userForm\\DeptHead\\AddResources.cs [Design]",
+              "RelativeToolTip": "UI\\userForm\\DeptHead\\AddResources.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:06:30.869Z",
               "EditorCaption": " [Design]"
             }
           ]
